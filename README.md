@@ -52,9 +52,9 @@ $
 /e/MUSIC
 $ ./cmd.sh
 Enter directory to download in:
-Rick Astley - Never Gonna Give You Up
+$ Rick Astley - Never Gonna Give You Up
 Enter link to download from (preferably a playlist)
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+$ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Are there chapters (y/N)?
 
 ...
@@ -69,10 +69,10 @@ $
 /e/MUSIC
 $ ./cmd.sh
 Enter directory to download in:
-good songs
+$ good songs
 mkdir: created directory 'good songs'
 Enter link to download from (preferably a playlist):
-https://www.youtube.com/watch?v=afpzKq0CqoI&list=PLjSER-WmwVtlfXh3rqwRP0lw5yaJUMt-d
+$ https://www.youtube.com/watch?v=afpzKq0CqoI&list=PLjSER-WmwVtlfXh3rqwRP0lw5yaJUMt-d
 Are there chapters (y/N)?
 
 ...
@@ -87,10 +87,10 @@ $
 /e/MUSIC
 $ ./cmd.sh
 Enter directory to download in:
-How to Disappear Completely - The Quietus (2024) - Full Album
+$ How to Disappear Completely - The Quietus (2024) - Full Album
 mkdir: created directory 'How to Disappear Completely - The Quietus (2024) - Full Album'
 Enter link to download from (preferably a playlist):
-https://www.youtube.com/watch?v=-H1AbSWuesU
+$ https://www.youtube.com/watch?v=-H1AbSWuesU
 Are there chapters (y/N)? y
 
 ...
