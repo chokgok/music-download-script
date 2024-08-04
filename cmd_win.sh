@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This version removes all "sudo" commands.
+# This is intended to run in Git Bash, Cygwin, or MSYS2 on Microsoft Windows.
+
 if [[ "$1" == "--help" || "$1" == "-h" ]]; then
 	echo "First parameter is the directory to download in."
 	echo "Second parameter is the link to download from."
