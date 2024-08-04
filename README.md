@@ -13,7 +13,7 @@ Make sure you have `grep` installed.
 ## Usage
 
 1. Download this script and place it in your music directory.
-2. Run it according to your operating system below.
+2. [Run it according to your operating system below.](#installation-and-execution)
 3. Enter the name of the directory you want the downloaded music to go in.
 4. Enter the link to the playlist or video.
 5. Answer Y/N if the video has chapter marks or not.
