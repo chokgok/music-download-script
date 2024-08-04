@@ -17,11 +17,12 @@ Use `-h` or `--help` for... y'know, help.
 
 ## Windows
 
-Run the script `cmd_win.sh` in:
+Run the script `cmd_win.sh` in one of the following:
 
-- Git Bash
-- Cygwin
-- MSYS2
+- Git Bash (comes with installing [Git](https://git-scm.com/downloads) on Windows)
+- [Cygwin](https://www.cygwin.com/)
+- [MSYS2](https://www.msys2.org/)
+- [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) (WSL)
 
 A native batch script is on the backburner while I figure out Spotify.
 
