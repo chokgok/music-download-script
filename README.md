@@ -45,4 +45,4 @@ You can get Termux [here on F-Droid](https://f-droid.org/en/packages/com.termux/
 
 After that, follow [this guide](https://gist.github.com/cyrillkuettel/d63785cf5f4c00106ae215188c377515) for getting Termux all set up and `yt-dlp` installed.
 
-Using the script is the same process on [Linux/MacOS](#linux-macos).
+Using the script is the same process on [Linux/MacOS](#linuxmacos).
