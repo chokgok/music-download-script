@@ -6,4 +6,6 @@ Download music from YouTube playlists, videos with chapters, or just single vide
 
 ## Prerequisites
 
-Download and install [yt-dlp](https://github.com/yt-dlp/yt-dlp).
+Download and install [`yt-dlp`](https://github.com/yt-dlp/yt-dlp).
+
+Make sure you have `grep` installed.
