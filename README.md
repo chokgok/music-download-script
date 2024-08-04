@@ -23,7 +23,7 @@ Make sure you have `grep` installed.
 > Instead of running the script and answering the questions one-by-one,
 > you can instead run the script with three parameters enclosed in quotes.
 
-### Three Parameters
+### Example Usage - Three Parameters
 
 ```
 /e/MUSIC
@@ -44,7 +44,7 @@ mkdir: created directory 'Decalius - A Miserable Life'
 $ 
 ```
 
-## Example Usage
+## Example Usage - One-by-one
 
 ### Single Video - Single MP3
 
