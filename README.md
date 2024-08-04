@@ -101,6 +101,7 @@ $
 
 ### Example File Tree
 
+```
 E:\MUSIC\.
 |   cmd.sh
 |   cmd_win.sh
@@ -120,6 +121,7 @@ E:\MUSIC\.
 +---The Drone Zone - Series Two
 +---The Interloper Original Soundtrack - Volume 1
 \---Tycho - The Science of Patterns
+```
 
 ---
 
